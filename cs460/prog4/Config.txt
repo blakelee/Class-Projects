@@ -1,0 +1,7 @@
+1000	iterations
+4	min length of file names
+12	max length of file names
+2	min file life
+4	max file life
+256	min file size
+20480	max file size
