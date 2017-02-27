@@ -10,4 +10,4 @@ The class numbers correspond to the following:
 3. cs330 - Database Systems
 4. cs367 - Computer Network I
 5. cs460 - Operating Systems
-
+6. CSC 3221 - [Netcentric Computing Project](http://dwifl.cs.spu.edu)
