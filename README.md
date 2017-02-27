@@ -5,13 +5,9 @@ The higher numbered classes generally have more interesting projects and should 
 
 The class numbers correspond to the following:
 
-cs241 - Data Structures
-
-cs322 - Principles of Concurrent Programming
-
-cs330 - Database Systems
-
-cs367 - Computer Network I
-
-cs460 - Operating Systems
+1. cs241 - Data Structures
+2. cs322 - Principles of Concurrent Programming
+3. cs330 - Database Systems
+4. cs367 - Computer Network I
+5. cs460 - Operating Systems
 
